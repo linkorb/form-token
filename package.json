@@ -1,0 +1,22 @@
+{
+  "name": "@linkorb/form-token",
+  "version": "0.1.0",
+  "description": "inserts a form token in each form wchich method is post method.",
+  "main": "form-token.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/linkorb/form-token.git"
+  },
+  "homepage": "https://github.com/linkorb/brace-helper",
+  "keywords": [
+    "token",
+    "form"
+  ],
+  "author": "LinkORB Engineering <engineering@linkorb.com> (http://linkorb.com)",
+  "license": "MIT",
+  "bugs": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {}
+}
