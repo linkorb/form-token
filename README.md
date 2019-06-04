@@ -24,6 +24,9 @@ app.js:
   var formToken = "xxx-xx-xxx";
 ```
 
+## License
+
+MIT. Please refer to the [license file](LICENSE) for details.
 
 ## Brought to you by the LinkORB Engineering team
 
