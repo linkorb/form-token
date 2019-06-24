@@ -1,6 +1,6 @@
 (function ($) {
     $('form').each(function () {
-        if ($(this).attr('method').toLowerCase() == 'post') {
+        if ($(this).attr('method') && $(this).attr('method').toLowerCase() == 'post') {
             $(this).append(
                 $('<input>').attr({
                     type: 'hidden',
